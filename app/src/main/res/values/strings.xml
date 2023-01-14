@@ -7,4 +7,5 @@
     <string name="taskComple">All tasks completed</string>
     <string name="taskCompleted2">Nice work!</string>
     <string name="title_activity_task_completed_task">TaskCompleted_Task</string>
+    <string name="title_activity_quandrant_uitask">QuandrantUITask</string>
 </resources>
